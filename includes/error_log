@@ -1,0 +1,22 @@
+[18-Sep-2019 19:34:10 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'isteitnu_ifest'@'localhost' to database 'isteitnu_ifest' in /home/isteitnu/public_html/includes/dbconnect.php on line 6
+[18-Sep-2019 19:34:10 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/isteitnu/public_html/includes/dbconnect.php on line 9
+[18-Sep-2019 19:34:35 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'isteitnu_ifest'@'localhost' to database 'isteitnu_ifest' in /home/isteitnu/public_html/includes/dbconnect.php on line 6
+[18-Sep-2019 19:34:35 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/isteitnu/public_html/includes/dbconnect.php on line 9
+[18-Sep-2019 19:34:36 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'isteitnu_ifest'@'localhost' to database 'isteitnu_ifest' in /home/isteitnu/public_html/includes/dbconnect.php on line 6
+[18-Sep-2019 19:34:36 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/isteitnu/public_html/includes/dbconnect.php on line 9
+[18-Sep-2019 19:34:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'isteitnu_ifest'@'localhost' to database 'isteitnu_ifest' in /home/isteitnu/public_html/includes/dbconnect.php on line 6
+[18-Sep-2019 19:34:37 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/isteitnu/public_html/includes/dbconnect.php on line 9
+[18-Sep-2019 19:34:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'isteitnu_ifest'@'localhost' to database 'isteitnu_ifest' in /home/isteitnu/public_html/includes/dbconnect.php on line 6
+[18-Sep-2019 19:34:37 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/isteitnu/public_html/includes/dbconnect.php on line 9
+[18-Sep-2019 19:35:00 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'isteitnu_ifest'@'localhost' to database 'isteitnu_ifest' in /home/isteitnu/public_html/includes/dbconnect.php on line 6
+[18-Sep-2019 19:35:00 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/isteitnu/public_html/includes/dbconnect.php on line 9
+[18-Sep-2019 19:35:01 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'isteitnu_ifest'@'localhost' to database 'isteitnu_ifest' in /home/isteitnu/public_html/includes/dbconnect.php on line 6
+[18-Sep-2019 19:35:01 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/isteitnu/public_html/includes/dbconnect.php on line 9
+[18-Sep-2019 19:35:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'isteitnu_ifest'@'localhost' to database 'isteitnu_ifest' in /home/isteitnu/public_html/includes/dbconnect.php on line 6
+[18-Sep-2019 19:35:24 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/isteitnu/public_html/includes/dbconnect.php on line 9
+[18-Sep-2019 19:35:30 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'isteitnu_ifest'@'localhost' to database 'isteitnu_ifest' in /home/isteitnu/public_html/includes/dbconnect.php on line 6
+[18-Sep-2019 19:35:30 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/isteitnu/public_html/includes/dbconnect.php on line 9
+[18-Sep-2019 19:35:31 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'isteitnu_ifest'@'localhost' to database 'isteitnu_ifest' in /home/isteitnu/public_html/includes/dbconnect.php on line 6
+[18-Sep-2019 19:35:31 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/isteitnu/public_html/includes/dbconnect.php on line 9
+[18-Sep-2019 19:35:46 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'isteitnu_ifest'@'localhost' to database 'isteitnu_ifest' in /home/isteitnu/public_html/includes/dbconnect.php on line 6
+[18-Sep-2019 19:35:46 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/isteitnu/public_html/includes/dbconnect.php on line 9
